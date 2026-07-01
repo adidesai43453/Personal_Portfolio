@@ -199,7 +199,7 @@ function Contact() {
                 {/* Resume */}
 
                 <a
-                  href="/resume/Aditya_Desai_Devops_Resume.pdf"
+                  href="/public/Aditya_Desai_Devops_Resume.pdf"
                   download
                   className="flex items-center gap-3 px-6 py-4 rounded-2xl bg-cyan-500 hover:bg-cyan-400 transition duration-300 text-slate-900 font-bold"
                 >
