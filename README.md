@@ -3,8 +3,8 @@
 A modern, responsive, and interactive portfolio built to showcase my projects, technical skills, certifications, and passion for software development. Designed with performance, accessibility, and clean UI principles in mind, this portfolio reflects my journey as a developer and serves as a central hub for my work.
 
 <p align="center">
-  <img src="./Portfolio_preview.jpeg" alt="Portfolio Preview" width="100%" />
-</p>
+  <img src="./public/Portfolio_preview.jpeg" alt="Portfolio Preview" width="100%" />
+</p>>
 
 <p align="center">
   <a href="https://personal-portfolio-smoky-beta-30.vercel.app/"><strong>🌐 Live Demo</strong></a> •
