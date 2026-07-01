@@ -93,7 +93,7 @@ function Hero() {
             {/* Resume Button */}
 
             <a
-              href="/public/Aditya_Desai_Devops_Resume.pdf"
+              href="./Aditya_Desai_Devops_Resume.pdf"
               download
               className="border border-cyan-500 text-cyan-400 hover:bg-cyan-500 hover:text-slate-900 transition duration-300 font-bold px-7 py-4 rounded-xl"
             >
